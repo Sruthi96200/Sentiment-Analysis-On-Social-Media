@@ -50,26 +50,6 @@ An **Entity Relationship Diagram (ERD)** visually models all relationships and c
 - **Draw.io / Lucidchart / dbdiagram.io** for ERD generation
 - **PowerShell / Command Line** for repository management
 
-## Repository Structure
-
-Sentiment-Analysis-On-Social-Media/
-│
-├── SQL_Scripts/
-│ ├── create_tables.sql
-│ ├── insert_data.sql
-│ ├── views_queries.sql
-│ ├── audit_trigger.sql
-│ ├── stored_procedure_udf.sql
-│ └── cursor.sql
-│
-├── ERD/
-│ └── Sentiment_DB_ERD.png
-│
-├── Screenshots/
-│ └── ExecutedQueries.docx
-│
-└── Final_Report.docx
-
 ## Author
 
 **Sruthi Keerthana Nuttakki**  
