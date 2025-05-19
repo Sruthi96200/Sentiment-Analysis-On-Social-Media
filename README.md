@@ -70,10 +70,10 @@ Sentiment-Analysis-On-Social-Media/
 │
 └── Final_Report.docx
 
-## 👩‍💻 Author
+## Author
 
 **Sruthi Keerthana Nuttakki**  
-Graduate Student – Data Science, Analytics & Engineering  
+Graduate Student – Data Science, Analytics Engineering in Electrical Engineering 
 Arizona State University  
 --
 
